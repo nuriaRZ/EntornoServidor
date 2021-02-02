@@ -10,7 +10,8 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <?php             
+        <?php 
+        phpinfo();
         ?>
         <h1>Autobuses Carrera</h1><br>
         <form action="reservar.php" method="post">
